@@ -2,7 +2,7 @@
 
 # ver 0.0.1
 #
-# this fetches the IP addresses associated with interfaces from bot members of an HA pair deployed with the 
+# this fetches the IP addresses associated with interfaces from both members of an HA pair deployed with the 
 # F5 CFT to see which device the secondary IPs are associated with
 #
 # usage:
